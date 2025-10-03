@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Generator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|solutionrelative:Generator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|solutionrelative:Solver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A1AF070-6619-4113-ABC6-DC316C77C218}|SudokuCLI.vcxproj|solutionrelative:Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generator.h",
+              "DocumentMoniker": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Generator.h",
+              "RelativeDocumentMoniker": "Generator.h",
+              "ToolTip": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Generator.h",
+              "RelativeToolTip": "Generator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T18:52:23.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solver.h",
+              "DocumentMoniker": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Solver.h",
+              "RelativeDocumentMoniker": "Solver.h",
+              "ToolTip": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Solver.h",
+              "RelativeToolTip": "Solver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T18:52:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Board.h",
+              "RelativeDocumentMoniker": "Board.h",
+              "ToolTip": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Board.h",
+              "RelativeToolTip": "Board.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T18:52:04.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\danny\\Documents\\BYUI Courses\\2025-3 Fall\\CSE310 - Applied Programming\\SudokuCLI\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-02T18:51:49.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
